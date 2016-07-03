@@ -2,7 +2,7 @@
 
 namespace CSharp6FeaturesExample
 {
-    class ExpressionBodiedFunctions
+    class ExpressionBodiesFunctions
     {
         static void Main(string[] args)
         {

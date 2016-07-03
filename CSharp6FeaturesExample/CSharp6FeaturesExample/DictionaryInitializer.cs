@@ -11,7 +11,7 @@ namespace CSharp6FeaturesExample
             // Before C# 6.0
             Dictionary<string, Uri> urls = new Dictionary<string, Uri>
             {
-                { "Google", new Uri("http://google.com") },
+                {"Google", new Uri("http://google.com") },
                 {"Microsoft"   , new Uri("http://microsoft.com") },
                 {"jQuer2DotNet", new Uri("http://jquer2dotnet.com") }
             };

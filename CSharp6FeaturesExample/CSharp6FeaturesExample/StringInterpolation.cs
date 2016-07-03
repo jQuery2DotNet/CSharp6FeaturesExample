@@ -14,6 +14,7 @@ namespace CSharp6FeaturesExample
 
             // In C# 6.0
             // define multiple string values by “\{ variable }”
+            // Just make sure you use the $ before the start of the string.
             WriteLine($"My name is {firstName} {lastName}");
             WriteLine($"Current datetime : {DateTime.Now}");
 
